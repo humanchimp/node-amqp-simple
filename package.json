@@ -1,0 +1,22 @@
+{
+  "name": "node-amqp-simple",
+  "version": "0.0.0",
+  "description": "A driver for RabbitMQ that exposes channels",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/humanchimp/node-amqp-simple.git"
+  },
+  "author": "Christopher Thorn <chris@koding.com>",
+  "license": "BSD"
+}
