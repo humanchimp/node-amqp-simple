@@ -1,0 +1,1 @@
+amqp = require '../index.js'
